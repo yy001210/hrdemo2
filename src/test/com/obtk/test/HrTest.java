@@ -45,5 +45,6 @@ public class HrTest {
     @Test
     public void testzhr(){
         System.out.println("zh_SSS测试");
+        System.out.println("git测试一次！！！");
     }
 }
